@@ -1,0 +1,1 @@
+Importez le fichier td03.sql depuis phpmyadmin pour créer la base nécessaire pour l'exécution des scripts.

@@ -1,0 +1,5 @@
+Article 1;Le texte de l'article 1 est le suivant...;12
+Article 2;Le texte de l'article 2 est le suivant...;5
+Article 3;Le texte de l'article 3 est le suivant...;22
+Article 4;Le texte de l'article 4 est le suivant...;149
+Article 5;Le texte de l'article 5 est le suivant...;4

@@ -1,0 +1,93 @@
+{
+    "séries" : [
+        { 
+            "intitulé" : "Game of Thrones",
+            "familles" : [
+                {
+                    "nom" : "Stark",
+                    "membres" : [
+                        { "prénom" : "Jon", "nom" : "Snow" },
+                        { "prénom" : "Sansa", "nom" : "Stark" },
+                        { "prénom" : "Arya", "nom" : "Stark" },
+                        { "prénom" : "Bran", "nom" : "Stark" },
+                        { "prénom" : "Eddard", "nom" : "Stark" },
+                        { "prénom" : "Catelyn", "nom" : "Tully" },
+                        { "prénom" : "Robb", "nom" : "Stark" }
+                    ]
+                },
+                {
+                    "nom" : "Lannister",
+                    "membres" : [
+                        { "prénom" : "Tyrion", "nom" : "Lannister" },
+                        { "prénom" : "Jannie", "nom" : "Lannister" },
+                        { "prénom" : "Cersei", "nom" : "Lannister" },
+                        { "prénom" : "Tywin", "nom" : "Lannister" }
+                    ]
+                },
+                {
+                    "nom" : "Targaryen",
+                    "membres" : [
+                        { "prénom" : "Daenerys ", "nom" : "Targaryen" },
+                        { "prénom" : "Viserys", "nom" : "Targaryen" }                    
+                    ]
+                }
+            ]
+        },
+        {
+            "intitulé" : "Les Simpson",
+            "familles" : [
+                {
+                    "nom" : "Simpson",
+                    "membres" : [
+                        { "prénom" : "Homer", "nom" : "Simpson" },
+                        { "prénom" : "Marge", "nom" : "Simpson" },
+                        { "prénom" : "Bart", "nom" : "Simpson" },
+                        { "prénom" : "Lisa", "nom" : "Simpson" },
+                        { "prénom" : "Maggie", "nom" : "Simpson" }
+                    ]
+                },
+                {
+                    "nom" : "Flanders",
+                    "membres" : [
+                        { "prénom" : "Ned", "nom" : "Flanders" },
+                        { "prénom" : "Maude", "nom" : "Flanders" },
+                        { "prénom" : "Todd", "nom" : "Flanders" },
+                        { "prénom" : "Rod", "nom" : "Flanders" }
+                    ]
+                }
+            ]
+        },
+        {
+            "intitulé" : "Modern Family",
+            "familles" : [
+                {
+                    "nom" : "Dunphy",
+                    "membres" : [
+                        { "prénom" : "Phil", "nom" : "Dunphy" },
+                        { "prénom" : "Claire", "nom" : "Dunphy" },
+                        { "prénom" : "Haley", "nom" : "Dunphy" },
+                        { "prénom" : "Alex", "nom" : "Dunphy" },
+                        { "prénom" : "Luke", "nom" : "Dunphy" }
+                    ]
+                },
+                {
+                    "nom" : "Delgado-Pritchett",
+                    "membres" : [
+                        { "prénom" : "Jay", "nom" : "Pritchett" },
+                        { "prénom" : "Gloria", "nom" : "Pritchett" },
+                        { "prénom" : "Manny", "nom" : "Delgado" },
+                        { "prénom" : "Joe", "nom" : "Pritchett" }
+                    ]
+                },
+                {
+                    "nom" : "Tucker-Pritchett",
+                    "membres" : [
+                        { "prénom" : "Mitchell", "nom" : "Pritchett" },
+                        { "prénom" : "Cameron", "nom" : "Tucker" },
+                        { "prénom" : "Lily", "nom" : "Tucker-Pritchett" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
